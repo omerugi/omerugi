@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omerihay@gmail.com**
 
-- ⚡ Fun fact **I can get carried away when talking about fictional things**
+- ⚡ Fun fact **I once lost my flight and got stuck in India for 12h just because I was so caught up in a conversation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
