@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omer!</h1>
 <h3 align="center">Passionate about data! from understanding it until using it to solve problems!</h3>
 
-- 🌱 I’m currently learning **new things in the field of ML.**
+- 🌱 I’m currently **a Software Developer working in Java☕ Spring🍃 with a passion to Data📚**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omerugi?tab=repositories](https://github.com/omerugi?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/omerugi/](https://www.linkedin.com/in/omerugi/)
+- 📝 I regularly write articles on [https://medium.com/@omerrugihay](https://medium.com/@omerrugihay)
 
-- 💬 Ask me about **Data, ML, DL and Superheroes.**
+- 💬 Ask me about **Spring, Data, ML, DL and Superheroes.**
 
 - 📫 How to reach me **omerihay@gmail.com**
 
